@@ -9,7 +9,7 @@
 #include <string.h>
 #include <ctype.h>
 
-// Função 1: Gerar Sequência de Fibonacci
+// Função 1: Gerar Sequência de Fibonacci  Responsavel Por Lucas
 void Fibonacci() {
     int n;
     do {
@@ -35,7 +35,7 @@ void Fibonacci() {
     printf("\n");
 }
 
-// Função 2: Calcular Fatoriais
+// Função 2: Calcular Fatoriais  Responsavel Por Lucas
 void Fatoriais() {
     int n;
     do {
