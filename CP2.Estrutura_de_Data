@@ -61,7 +61,7 @@ void Fatoriais() {
     }
 }
 
-// Função 3: Checar se é Palíndromo
+// Função 3: Checar se é Palíndromo (Responsável: Dante Luiz)
 void VerificarPalindromo() {
     char palavra[101];
     printf("Digite uma palavra para verificar se é um palíndromo: ");
@@ -87,7 +87,7 @@ void VerificarPalindromo() {
     }
 }
 
-// Função 4: Verificar Substring
+// Função 4: Verificar Substring (Responsável: Dante Luiz)
 void VerificarSubstring() {
     char textoPrincipal[101], textoPesquisa[101];
 
